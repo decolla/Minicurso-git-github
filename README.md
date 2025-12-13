@@ -1,3 +1,8 @@
+# Nome: Camilo Saud Gasparino de Souza |
+Matrícula: 12411bcc023
+
+Estou aprendendo os conceitos de git e github no minicurso a fim de aperfeiçoar as minhas habilidades e competências como programador.
+
 # Artur Mariano Ribeiro 
 
 Estou no minicurso de git e github para poder ter uma base das ferramentas do mercado, enriquecer meu curriculo e aprender coisas novas.
@@ -46,3 +51,4 @@ Estou aprendendo git e github, pois são ferramentas essenciais para um desenvol
 # Daniel Vito Ramos
 
 Eu estou aprendendo Git para expandir os meus conhecimentos na área de programação visando futuramente utilizar estes conhecimentos no mercado de IA
+
